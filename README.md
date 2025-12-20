@@ -16,11 +16,11 @@ Este repositório documenta minha formaçãoo de conceitos essenciais na formaç
 | **Mês 5** | Automação | ⏳ Planejado |
 | **Mês 6** | Projeto Final | ⏳ Planejado |
 
-**Etapas do Porjeto**
+**Etapas do Porjeto.**
 
-**🛠️ Fewrramentas Utilizadas**
-OracleVirtualBox
-Linux(Ubuntu Server)
-Redes de Computadores
-GitHub
-Documentação Técnica
+**🛠️ Fewrramentas Utilizadas.**
+OracleVirtualBox.
+Linux(Ubuntu Server).
+Redes de Computadores.
+GitHub.
+Documentação Técnica.

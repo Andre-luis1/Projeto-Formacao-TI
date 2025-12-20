@@ -27,7 +27,7 @@
 - 📁[ Mês 5 - Automoção ]
 - 📁[ Mês 6 - Projeto Final ]
 
-**🛠️ Fewrramentas Utilizadas.**
+**🛠️ Ferramentas Utilizadas.**
 
 -OracleVirtualBox.
 

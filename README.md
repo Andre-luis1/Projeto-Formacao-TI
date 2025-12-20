@@ -17,7 +17,14 @@ Este repositório documenta minha formação de conceitos essenciais na formaç�
 | **Mês 5** | Automação | ⌛ Planejado |
 | **Mês 6** | Projeto Final | ⌛ Planejado |
 
-**Etapas do Porjeto.**
+**📂Etapas do Porjeto.**
+
+- 📁[ Mês 1 - Virtualização ]
+- 📁[ Mês 2 - Linux ]
+- 📁[ Mês 3 - Redes ]
+- 📁[ Mês 4 - Serviços ]
+- 📁[ Mês 5 - Automoção ]
+- 📁[ Mês 6 - Projeto Final ]
 
 **🛠️ Fewrramentas Utilizadas.**
 

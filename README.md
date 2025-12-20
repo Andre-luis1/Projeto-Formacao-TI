@@ -1,6 +1,6 @@
 **🗂️ Projeto formação essencial em Tecnologia da Informação**
 
-Este repositório documenta minha formaçãoo de conceitos essenciais na formação prática de Ti, com foco em infraestrutura, Linux, Redes e Automoção.
+Este repositório documenta minha formação de conceitos essenciais na formação prática de Ti, com foco em infraestrutura, Linux, Redes e Automoção.
 
 -🎓 Estudante de Gestão de Tecnologia da Informação.
 

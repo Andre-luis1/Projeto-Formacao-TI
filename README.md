@@ -2,11 +2,11 @@
 
 Este repositório documenta minha formaçãoo de conceitos essenciais na formação prática de Ti, com foco em infraestrutura, Linux, Redes e Automoção.
 
--🎓 Estudante de Gestão de Tecnologia da Informação.
--📋 Objetivo: Estágio ou Vaga Junior em Ti.
+🎓 Estudante de Gestão de Tecnologia da Informação.
+📋 Objetivo: Estágio ou Vaga Junior em Ti.
 
 **📑 Estrutura Geral do Porjeto**
-**-Este projeto foi organizado em etapas mensais de aprendizagem e resultados, simulando um processo de aprendizagem real com entregas de projetos reais que tornam o estudo implementável.**
+**Este projeto foi organizado em etapas mensais de aprendizagem e resultados, simulando um processo de aprendizagem real com entregas de projetos reais que tornam o estudo implementável.**
 | Etapa | Tema | Status |
 |------|------|--------|
 | **Mês 1** | Virtualização e SO | ⏳ Em Andamento... |
@@ -19,8 +19,8 @@ Este repositório documenta minha formaçãoo de conceitos essenciais na formaç
 **Etapas do Porjeto**
 
 **🛠️ Fewrramentas Utilizadas**
--OracleVirtualBox
--Linux(Ubuntu Server)
--Redes de Computadores
--GitHub
--Documentação Técnica
+OracleVirtualBox
+Linux(Ubuntu Server)
+Redes de Computadores
+GitHub
+Documentação Técnica

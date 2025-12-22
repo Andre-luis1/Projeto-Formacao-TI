@@ -20,12 +20,12 @@
 
 **📂Etapas do Porjeto.**
 
-- 📁[ Mês 1 - Virtualização ](./mes-01-virtualizacao)
-- 📁[ Mês 2 - Linux ](./mes-02-linux)
-- 📁[ Mês 3 - Redes ](./mes-03-redes)
-- 📁[ Mês 4 - Serviços ](./mes-04-servicos)
-- 📁[ Mês 5 - Automoção ](./mes-05-automacao)
-- 📁[ Mês 6 - Projeto Final ](./mes-06-projeto-final)
+- 📁[ Mês 1 - Virtualização ]
+- 📁[ Mês 2 - Linux ]
+- 📁[ Mês 3 - Redes ]
+- 📁[ Mês 4 - Serviços ]
+- 📁[ Mês 5 - Automoção ]
+- 📁[ Mês 6 - Projeto Final ]
 
 **🛠️ Ferramentas Utilizadas.**
 

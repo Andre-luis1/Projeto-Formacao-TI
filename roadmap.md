@@ -6,7 +6,7 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 ---
 
 ## 📌 Status Geral
-- ⏳ Planejado
+- ⌛ Planejado
 - 🚧 Em andamento
 - ✅ Concluído
 
@@ -27,7 +27,7 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 
 ---
 
-### ⏳ Mês 2 – Linux Essencial
+### ⌛ Mês 2 – Linux Essencial
 **Objetivo:** Ganhar autonomia no uso do Linux.
 
 **Atividades:**
@@ -36,11 +36,11 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 - SSH e firewall básico
 
 📂 Projeto: [`mes-02-linux`](./mes-02-linux)  
-📌 Status: ⏳ Planejado
+📌 Status: ⌛ Planejado
 
 ---
 
-### ⏳ Mês 3 – Redes de Computadores
+### ⌛ Mês 3 – Redes de Computadores
 **Objetivo:** Compreender comunicação entre sistemas.
 
 **Atividades:**
@@ -49,11 +49,11 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 - Comunicação entre VMs
 
 📂 Projeto: [`mes-03-redes`](./mes-03-redes)  
-📌 Status: ⏳ Planejado
+📌 Status: ⌛ Planejado
 
 ---
 
-### ⏳ Mês 4 – Serviços de Infraestrutura
+### ⌛ Mês 4 – Serviços de Infraestrutura
 **Objetivo:** Implementar serviços usados em empresas.
 
 **Atividades:**
@@ -61,11 +61,11 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 - Compartilhamento de arquivos (Samba)
 
 📂 Projeto: [`mes-04-servicos`](./mes-04-servicos)  
-📌 Status: ⏳ Planejado
+📌 Status: ⌛ Planejado
 
 ---
 
-### ⏳ Mês 5 – Automação e Versionamento
+### ⌛ Mês 5 – Automação e Versionamento
 **Objetivo:** Automatizar rotinas administrativas.
 
 **Atividades:**
@@ -73,11 +73,11 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 - Scripts Bash
 
 📂 Projeto: [`mes-05-automacao`](./mes-05-automacao)  
-📌 Status: ⏳ Planejado
+📌 Status: ⌛ Planejado
 
 ---
 
-### ⏳ Mês 6 – Projeto Final
+### ⌛ Mês 6 – Projeto Final
 **Objetivo:** Consolidar conhecimentos em um cenário corporativo.
 
 **Atividades:**
@@ -85,5 +85,5 @@ com foco em Infraestrutura, Linux, Redes e Automação.
 - Documentação final
 
 📂 Projeto: [`mes-06-projeto-final`](./mes-06-projeto-final)  
-📌 Status: ⏳ Planejado
+📌 Status: ⌛ Planejado
 

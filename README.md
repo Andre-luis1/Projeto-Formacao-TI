@@ -26,7 +26,7 @@
 - 📁[ Mês 4 - Serviços ]
 - 📁[ Mês 5 - Automoção ]
 - 📁[ Mês 6 - Projeto Final ]
--  [ Plano de Estudos ](./documento-plano-detalhado).
+-  [ Plano de Estudos ](./documento-plano-detalhado.pdf).
 
 **🛠️ Ferramentas Utilizadas.**
 

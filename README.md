@@ -24,7 +24,7 @@
   
   ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
   
-  -**Conceitos:**.
+  -**Conceitos:** Virtualização, ISO, clonagem, snapshots, Linux,VDI
   
   -**Entregas:**.
 
@@ -36,7 +36,7 @@
   
 - 📁[ Mês 2 - Linux ]
   
-  ▪️**Resumo:** 
+  ▪️**Resumo:** Configuração de servidor Linux básico
   
   -**Conceitos:**.
   
@@ -46,7 +46,7 @@
   
 - 📁[ Mês 3 - Redes ]
   
-  ▪️**Resumo:** 
+  ▪️**Resumo:** Simulação de rede corporativa em ambiente virtual.
   
   -**Conceitos:**.
   
@@ -56,7 +56,7 @@
   
 - 📁[ Mês 4 - Serviços ]
   
-  ▪️**Resumo:** 
+  ▪️**Resumo:** Implementação de servidor web e compartilhamento de arquivos.
   
   -**Conceitos:**.
   
@@ -66,7 +66,7 @@
   
 - 📁[ Mês 5 - Automoção ]
  
-  ▪️**Resumo:** 
+  ▪️**Resumo:** Criação de scripts Bash para rotinas administrativas. 
   
   -**Conceitos:**.
   
@@ -76,7 +76,7 @@
   
 - 📁[ Mês 6 - Projeto Final ]
    
-  ▪️**Resumo:** 
+  ▪️**Resumo:**  Infraestrutura completa simulando ambiente de pequena empresa.
   
   -**Conceitos:**.
   

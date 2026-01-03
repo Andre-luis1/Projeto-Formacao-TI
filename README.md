@@ -20,7 +20,7 @@
 
 **📂Etapas do Porjeto.**
 
-- 📁[ Mês 1 - Virtualização ]
+- | 📁[ Mês 1 - Virtualização ] |
   
   ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
   -**Conceitos:**.

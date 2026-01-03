@@ -36,7 +36,8 @@
   
 - 📁[ Mês 2 - Linux ]
   
-  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  ▪️**Resumo:** 
+  
   -**Conceitos:**.
   
   -**Entregas:**.
@@ -45,7 +46,8 @@
   
 - 📁[ Mês 3 - Redes ]
   
-  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  ▪️**Resumo:** 
+  
   -**Conceitos:**.
   
   -**Entregas:**.
@@ -54,7 +56,8 @@
   
 - 📁[ Mês 4 - Serviços ]
   
-  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  ▪️**Resumo:** 
+  
   -**Conceitos:**.
   
   -**Entregas:**.
@@ -63,7 +66,8 @@
   
 - 📁[ Mês 5 - Automoção ]
  
-  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  ▪️**Resumo:** 
+  
   -**Conceitos:**.
   
   -**Entregas:**.
@@ -72,7 +76,8 @@
   
 - 📁[ Mês 6 - Projeto Final ]
    
-  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  ▪️**Resumo:** 
+  
   -**Conceitos:**.
   
   -**Entregas:**.

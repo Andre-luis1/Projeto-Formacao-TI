@@ -84,7 +84,7 @@
   
     -📄[Relatório Técnico - Mês 6].
 
-  **📝 Planejamento.**
+  **- 📝 Planejamento.**
   
 - 📚[ Plano de Estudos ](./documento-plano-detalhado.pdf).
 

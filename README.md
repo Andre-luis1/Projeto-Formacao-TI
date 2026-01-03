@@ -34,10 +34,50 @@
     -🎞️[Vídeo Demostrativo do Ambiente - **Linux**](https://youtu.be/PR9BxbLz12Q?si=Gg75lyYc4_S77nl8).
   
 - 📁[ Mês 2 - Linux ]
+  
+  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  -**Conceitos:**.
+  
+  -**Entregas:**.
+  
+    -📄[Relatório Técnico - Mês 2].
+  
 - 📁[ Mês 3 - Redes ]
+  
+  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  -**Conceitos:**.
+  
+  -**Entregas:**.
+  
+    -📄[Relatório Técnico - Mês 3].
+  
 - 📁[ Mês 4 - Serviços ]
+  
+  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  -**Conceitos:**.
+  
+  -**Entregas:**.
+  
+    -📄[Relatório Técnico - Mês 4].
+  
 - 📁[ Mês 5 - Automoção ]
+ 
+  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  -**Conceitos:**.
+  
+  -**Entregas:**.
+  
+    -📄[Relatório Técnico - Mês 5].
+  
 - 📁[ Mês 6 - Projeto Final ]
+   
+  ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
+  -**Conceitos:**.
+  
+  -**Entregas:**.
+  
+    -📄[Relatório Técnico - Mês 6].
+  
 - 📚[ Plano de Estudos ](./documento-plano-detalhado.pdf).
 
 **🛠️ Ferramentas Utilizadas.**

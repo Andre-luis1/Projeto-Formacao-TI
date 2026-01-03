@@ -23,9 +23,13 @@
 - 📁[ Mês 1 - Virtualização ]
   ▪️**Resumo:** Criação de Laboratório Virtual com Windows e Linux através do VirtualBox.
   -**Conceitos:**.
+  
   -**Entregas:**.
+  
     -📄[Relatório Técnico - Mês 1].
+  
     -🎞️[Vídeo Demostrativo do Ambiente - **Windows**](https://youtu.be/OHtx2FYSC9c?si=Xz_wMLjHIUqmwQp7).
+  
     -🎞️[Vídeo Demostrativo do Ambiente - **Linux**](https://youtu.be/PR9BxbLz12Q?si=Gg75lyYc4_S77nl8).
   
 - 📁[ Mês 2 - Linux ]

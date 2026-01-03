@@ -86,7 +86,7 @@
 
 - **📝 Planejamento.**
   
- **- 📚[ Plano de Estudos ](./documento-plano-detalhado.pdf).**
+   **- 📚[ Plano de Estudos ](./documento-plano-detalhado.pdf).**
 
 **🛠️ Ferramentas Utilizadas.**
 

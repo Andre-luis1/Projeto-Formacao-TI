@@ -30,9 +30,9 @@
 
     -📄[Relatório Técnico - Mês 1].
   
-    -🎞️[Vídeo Demostrativo do Ambiente - **Windows**](https://youtu.be/eQ_JRu-ycPc?si=iBygyEE2i_eHhrV7)
+    -🎞️[Vídeo Demostrativo do Ambiente - **Windows**](https://youtu.be/eR2_aFQZHGo?si=CX_w9Ik-v_s9UhE-)
   
-    -🎞️[Vídeo Demostrativo do Ambiente - **Linux**](https://youtu.be/PR9BxbLz12Q?si=Gg75lyYc4_S77nl8).
+    -🎞️[Vídeo Demostrativo do Ambiente - **Linux**]
 
     -📈[Diagrama do Ambiente Virtual](./diagrama-lab-multi-vm.jpeg)
   

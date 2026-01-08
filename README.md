@@ -32,7 +32,7 @@
   
     -🎞️[Vídeo Demostrativo do Ambiente - **Windows**](https://youtu.be/eR2_aFQZHGo?si=CX_w9Ik-v_s9UhE-)
   
-    -🎞️[Vídeo Demostrativo do Ambiente - **Linux**]
+    -🎞️[Vídeo Demostrativo do Ambiente - **Linux**](https://youtu.be/GaKhp1Y2os8?si=bK8t6uGzg4I7skOI)
 
     -📈[Diagrama do Ambiente Virtual](./diagrama-lab-multi-vm.jpeg)
   

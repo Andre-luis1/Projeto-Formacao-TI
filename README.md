@@ -28,7 +28,7 @@
   
   -**Entregas:**.
 
-    -📄[Relatório Técnico - Mês 1].
+    -📄[Relatório Técnico - Mês 1](./mes-1-virtualização-deambientes.pdf)
   
     -🎞️[Vídeo Demostrativo do Ambiente - **Windows**](https://youtu.be/eR2_aFQZHGo?si=CX_w9Ik-v_s9UhE-)
   

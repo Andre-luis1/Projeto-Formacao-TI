@@ -44,7 +44,7 @@
   
   -**Entregas:**.
   
-    -📄[Relatório Técnico - Mês 2].
+    -📄[Relatório Técnico - Mês 2](./mes-2-linux-essencial.pdf)
   
 - 📁[ Mês 3 - Redes ]
   

@@ -39,8 +39,9 @@
 - 📁[ Mês 2 - Linux ]
   
   ▪️**Resumo:** Configuração de servidor Linux básico
+  -⚠️(***Mudança de ferramenta de documentação:*** *Foi adotado a utilização de Markdown através software ***Typora*** para as futuras documentações das etapas do projeto.*)
   
-  -**Conceitos:**.
+  -**Conceitos:** Ubuntu Server, diretórios, firewall, SSH, permissões.
   
   -**Entregas:**.
   

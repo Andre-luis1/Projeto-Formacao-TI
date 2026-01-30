@@ -12,7 +12,7 @@
 | Etapa | Tema | Status |
 |------|------|--------|
 | **Mês 1** | Virtualização e SO |  ✅  Concluído |
-| **Mês 2** | Linux Essencial | ⌛ Planejado |
+| **Mês 2** | Linux Essencial | ⌛ Em andamento... |
 | **Mês 3** | Redes | ⌛ Planejado |
 | **Mês 4** | Serviços | ⌛ Planejado |
 | **Mês 5** | Automação | ⌛ Planejado |
@@ -44,7 +44,7 @@
   
   -**Entregas:**.
   
-    -📄[Relatório Técnico - Mês 2].
+    -📄[Relatório Técnico - Mês 2].(./mes-2-linux-essencial.pdf)
   
 - 📁[ Mês 3 - Redes ]
   

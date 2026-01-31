@@ -47,7 +47,9 @@
   -**Entregas:**.
   
     -📄[Relatório Técnico - Mês 2](./mes-2-linux-essencial.pdf)
+  
     -📄[Relatório - Execução Servidor Linux](./projeto-servidor-linux.pdf)
+  
     -📈[Diagrama do Servidor](./diagrama-server-linux.png)
   
 - 📁[ Mês 3 - Redes ]

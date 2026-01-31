@@ -12,7 +12,7 @@
 | Etapa | Tema | Status |
 |------|------|--------|
 | **Mês 1** | Virtualização e SO |  ✅  Concluído |
-| **Mês 2** | Linux Essencial | ⌛ Em andamento... |
+| **Mês 2** | Linux Essencial | ✅  Concluído |
 | **Mês 3** | Redes | ⌛ Planejado |
 | **Mês 4** | Serviços | ⌛ Planejado |
 | **Mês 5** | Automação | ⌛ Planejado |
@@ -42,11 +42,13 @@
   
   -⚠️(***Mudança de ferramenta de documentação:*** *Foi adotado a utilização de Markdown através software ***Typora*** para as futuras documentações das etapas do projeto.*)
   
-  -**Conceitos:** Ubuntu Server, diretórios, firewall, SSH, permissões.
+  -**Conceitos:** Ubuntu Server, diretórios, firewall, SSH, permissões,html básico.
   
   -**Entregas:**.
   
     -📄[Relatório Técnico - Mês 2](./mes-2-linux-essencial.pdf)
+    -📄[Relatório - Execução Servidor Linux](./projeto-servidor-linux.pdf)
+    -📈[Diagrama do Servidor](./diagrama-server-linux.png)
   
 - 📁[ Mês 3 - Redes ]
   
